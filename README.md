@@ -63,3 +63,4 @@ Esta é a versão 1.0 E 1.1, então bugs podem acontecer! Se você encontrar alg
     Autor: Paulo (12 anos)
 
 Eu leio todos os e-mails! Se tiver uma ideia de comando novo, me mande.
+#USO AUTORIZADO EM PROJETOS DE TERCEIROS APENAS COM CREDITOS AO CRIADOR E PROIBIDO USO COMERCIAL DA LINGUAGEM PROJETO DA AUTORIA DE PAULO  ⚠️
